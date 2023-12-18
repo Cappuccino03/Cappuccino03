@@ -8,7 +8,7 @@
     codename: "Cappuccino03",
     status: "alive",
     doing: "Content Writing and Coding...",
-    code: ["{HTML}", "{CSS}", "{Javascript}", "{C}", "{C++}", "{Java}"],
+    code: ["{HTML}", "{CSS}", "{Javascript}"]
     askMeAbout: ["soft dev", "web dev", "tech" , "web design"],
     webdev: {
         frontEnd: {
